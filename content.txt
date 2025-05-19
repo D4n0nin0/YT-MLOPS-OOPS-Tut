@@ -1,0 +1,10 @@
+1. Class and obj (example)
+2, Class has data/attribute and functions/methods
+    > code walkthrough (Recorrido del código)
+    > attributes get called itself, methods are called manually (Los atributos se llaman automáticamente, los métodos se llaman manualmente)
+3. Why Python is called OOPS? - Everything in Python is an object (data structure, data type, etc)
+4. Ventajas de usar OOPS:
+    > Podemos usar nuestro propio datatype (parecido a int, str, list, etc)
+    > Codigo reusable
+    > Debugging (depurar)
+    > facil colaboración
